@@ -59,5 +59,5 @@ function draw(){
     for(let i = 0; i < listaDeCoordenadasY.length; i++){
         ellipse(200 + i, listaDeCoordenadasY[i], 5, 5)
     }
-    angulo -= 0.03
+    angulo -= 0.05
 }
